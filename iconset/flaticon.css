@@ -1,0 +1,166 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-bears3:before {
+	content: "\e000";
+}
+.flaticon-beavers:before {
+	content: "\e001";
+}
+.flaticon-bird10:before {
+	content: "\e002";
+}
+.flaticon-bird11:before {
+	content: "\e003";
+}
+.flaticon-bird12:before {
+	content: "\e004";
+}
+.flaticon-bird92:before {
+	content: "\e005";
+}
+.flaticon-bird93:before {
+	content: "\e006";
+}
+.flaticon-bird94:before {
+	content: "\e007";
+}
+.flaticon-bird95:before {
+	content: "\e008";
+}
+.flaticon-bird9:before {
+	content: "\e009";
+}
+.flaticon-cats4:before {
+	content: "\e00a";
+}
+.flaticon-chameleons:before {
+	content: "\e00b";
+}
+.flaticon-chicken24:before {
+	content: "\e00c";
+}
+.flaticon-chicken4:before {
+	content: "\e00d";
+}
+.flaticon-cows:before {
+	content: "\e00e";
+}
+.flaticon-deers1:before {
+	content: "\e00f";
+}
+.flaticon-desert2:before {
+	content: "\e010";
+}
+.flaticon-dogs9:before {
+	content: "\e011";
+}
+.flaticon-ducks2:before {
+	content: "\e012";
+}
+.flaticon-elephants1:before {
+	content: "\e013";
+}
+.flaticon-fishes10:before {
+	content: "\e014";
+}
+.flaticon-frogs1:before {
+	content: "\e015";
+}
+.flaticon-giraffes:before {
+	content: "\e016";
+}
+.flaticon-goats:before {
+	content: "\e017";
+}
+.flaticon-hedgehogs:before {
+	content: "\e018";
+}
+.flaticon-horn6:before {
+	content: "\e019";
+}
+.flaticon-horn7:before {
+	content: "\e01a";
+}
+.flaticon-horses4:before {
+	content: "\e01b";
+}
+.flaticon-horse:before {
+	content: "\e01c";
+}
+.flaticon-insect25:before {
+	content: "\e01d";
+}
+.flaticon-insect26:before {
+	content: "\e01e";
+}
+.flaticon-insect27:before {
+	content: "\e01f";
+}
+.flaticon-jellyfishes:before {
+	content: "\e020";
+}
+.flaticon-lemurs:before {
+	content: "\e021";
+}
+.flaticon-lions:before {
+	content: "\e022";
+}
+.flaticon-mammals:before {
+	content: "\e023";
+}
+.flaticon-mice:before {
+	content: "\e024";
+}
+.flaticon-monkeys:before {
+	content: "\e025";
+}
+.flaticon-pandas:before {
+	content: "\e026";
+}
+.flaticon-pigs:before {
+	content: "\e027";
+}
+.flaticon-rabbits1:before {
+	content: "\e028";
+}
+.flaticon-racoons:before {
+	content: "\e029";
+}
+.flaticon-seals:before {
+	content: "\e02a";
+}
+.flaticon-sheeps:before {
+	content: "\e02b";
+}
+.flaticon-snails1:before {
+	content: "\e02c";
+}
+.flaticon-snakes1:before {
+	content: "\e02d";
+}
+.flaticon-turtles2:before {
+	content: "\e02e";
+}
+.flaticon-whales1:before {
+	content: "\e02f";
+}
+.flaticon-wildlife3:before {
+	content: "\e030";
+}
+.flaticon-worms1:before {
+	content: "\e031";
+}
